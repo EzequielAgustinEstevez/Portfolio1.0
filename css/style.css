@@ -99,6 +99,25 @@ p {
   }
 }
 /* About Me */
-.resaltado{
+.resaltado {
   color: #9b2fae;
+}
+/* Experience */
+.lineas {
+  position: relative;
+  
+  }
+.cuadrados {
+  padding-top: 0.6em;
+  padding-left: ;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #9b2fae;
+  position: absolute;
+  top:4.7em; 
+  left: 13.2em;
+  text-align: center;
+}
+.contenedor{
+  position: absolute;
 }
