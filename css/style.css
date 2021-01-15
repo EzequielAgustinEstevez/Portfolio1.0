@@ -103,62 +103,34 @@ p {
   color: #9b2fae;
 }
 /* Experience */
-.lineas {
-  position: absolute;
+/* .lineas {
+  position: relative;
 }
 .lineas2 {
-  position: absolute;
-  padding-left: 41.3em;
+  position: relative;
 }
-.cuadrados {
-  padding-top: 0.6em;
-  border-width: 0.1em;
-  border-style: solid;
-  border-color: #9b2fae;
-  position: absolute;
-  text-align: center;
-}
+
 .contenedor {
-  position: absolute;
+  position:absolute;
+  width: 100%;
+  height: 100%;
 }
-.ubicacion01 {
-  top: 4.7em;
-  left: 5.2em;
-}
-.ubicacion02 {
-  top: 20.7em;
-  left: 5.2em;
-}
-.ubicacion03 {
-  top: 36.7em;
-  left: 5.2em;
-}
+
+
+
 .ubicacion04 {
   top: 4.7em;
-  left: 46.5em;
+  left: 44.5em;
 }
 .ubicacion05 {
   top: 20.7em;
-  left: 46.5em;
+  left: 44.5em;
 }
 .ubicacion06 {
   top: 40.7em;
-  left: 46.5em;
+  left: 44.5em;
 }
-.texto01 {
-  position: absolute;
-  top: 10em;
-  left: 5.2em;
-}
-.texto02 {
-  position: absolute;
-  top: 26em;
-  left: 5.2em;
-}
-.texto03 {
-  position: absolute;
-  top: 42em;
-  left: 5.2em;
+
 }
 .texto04 {
   position: absolute;
@@ -174,4 +146,41 @@ p {
   position: absolute;
   top: 46em;
   left: 46.5em;
+}
+ */
+
+.cuadrados {
+  padding-top: 0.6em;
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: #9b2fae;
+  text-align: center;
+}
+.ubicacion01 {
+  margin-top: 3em;
+  margin-left: 2.4em;
+}
+.ubicacion02 {
+  margin-top: 3.9em;
+  margin-left: 2.4em;
+}
+.ubicacion03 {
+  margin-top: 6.5em;
+  margin-left: 2.4em;
+}
+.texto01 {
+  margin-top: 1em;
+  margin-left: 2.4em;
+}
+.texto02 {
+  margin-top: 1em;
+  margin-left: 2.4em;
+}
+.texto03 {
+  margin-top: 1em;
+  margin-left: 2.4em;
+}
+.lineas01{
+  top: 10px;
+  left: 10px;
 }
